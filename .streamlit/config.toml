@@ -1,0 +1,7 @@
+[theme]
+primaryColor = "#00B16B"         # LangChain green
+backgroundColor = "#181A1B"      # Dark background
+secondaryBackgroundColor = "#23272F"  # Slightly lighter dark for sidebar
+textColor = "#F5F6FA"            # Light text
+font = "sans serif"              # Clean modern font
+base = "dark"                    # Set dark mode as default 
